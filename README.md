@@ -20,7 +20,7 @@ deactivate
 ```
 
 # wrapper 
-- save as '$HOME/my_web_scripts/wrapper_list_subsidiaries'
+- save as `$HOME/my_web_scripts/wrapper_list_subsidiaries`
 ```bash
 #!/bin/bash
 
