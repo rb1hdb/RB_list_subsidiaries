@@ -19,7 +19,8 @@ python list_subsidiaries.py $YOUR_API_KEY <TICKER>
 deactivate
 ```
 
-# wrapper (save as $HOME/my_web_scripts/wrapper_list_subsidiaries)
+# wrapper 
+- save as '$HOME/my_web_scripts/wrapper_list_subsidiaries'
 ```bash
 #!/bin/bash
 
